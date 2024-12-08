@@ -1,13 +1,13 @@
 # cibersecurity-desafio-DIO-phishing
 <h1>Repositório para estudos de Phishing utilizando a ferramenta setoolkit </h1>
 
-Ferramentas Utilizadas:
+<h2>Ferramentas Utilizadas:</h2>
 
 <p>Kali Linux
 <p>setoolkit
 
 
-Configurando o SETOOLKIT no Kali Linux para Phishing
+<h2>Configurando o SETOOLKIT no Kali Linux para Phishing</h2>
 <p>Em modo ROOT:
 <p>Iniciando o setoolkit: setoolkit 
 <p>Tipo de ataque: Social-Engineering Attacks
