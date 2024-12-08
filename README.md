@@ -9,7 +9,7 @@ setoolkit
 
 Configurando o SETOOLKIT no Kali Linux para Phishing
 Em modo ROOT:
-  Iniciando o setoolkit: setoolkit \n
+  Iniciando o setoolkit: setoolkit /n
   Tipo de ataque: Social-Engineering Attacks
   Vetor de ataque: Web Site Attack Vectors
   Método de ataque: Credential Harvester Attack Method 
